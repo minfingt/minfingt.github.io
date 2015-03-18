@@ -14,12 +14,3 @@ id: "projects"
 </h2>
 
 Libreria que contiene rutinas de validación comunes: Validación de NIT, Validación de DPI, etc. ([Ir al proyecto](https://github.com/minfingt/validators))
-
-### Ejemplo corto de Validators
-
-{% highlight cs %}
-
-var validator = new Minfin.Validators.NitValidator();
-validator.IsValid("35263164"); // true
-
-{% endhighlight %}
