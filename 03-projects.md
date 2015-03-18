@@ -17,9 +17,9 @@ Libreria que contiene rutinas de validación comunes: Validación de NIT, Valida
 
 ### Ejemplo corto de Validators
 
-```cs
+{% highlight cs %}
 
 var validator = new Minfin.Validators.NitValidator();
 validator.IsValid("35263164"); // true
 
-```
+{% endhighlight %}
