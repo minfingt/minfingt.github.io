@@ -1,2 +1,2 @@
 # minfingt.github.io
-OOS Minfin Page
+OSS Minfin Page
