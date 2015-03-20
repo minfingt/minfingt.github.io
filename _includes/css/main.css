@@ -356,3 +356,13 @@ nav ul li:hover, nav ul li.active {
     column-count:         2;
   }
 }
+
+/* Social Buttons */
+
+.social > ul.social-buttons {
+  list-style: none;
+}
+
+.social > ul.social-buttons > li {
+  display: inline-block;
+}

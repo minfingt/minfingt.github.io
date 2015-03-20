@@ -19,6 +19,7 @@ id: "intro"
 # Minfin OSS
 {: .text-blue}
 
+{% include social-buttons.html %}
 
 Proyectos [C&oacute;digo abierto](http://es.wikipedia.org/wiki/C%C3%B3digo_abierto) del [Ministerio de Finanzas P&uacute;blicas](http://www.minfin.gob.gt).
 
